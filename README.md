@@ -6,9 +6,9 @@
 
 Перед запуском нужно внести следующие изменения в код:
 
-1 Замените `YOUR_TELEGRAM_BOT_TOKEN` на токен вашего Telegram бота. Если вы еще не создали бота, пройдите по [этой ссылке](https://core.telegram.org/bots#creating-a-new-bot) и создайте его с помощью BotFather.
+1. Замените в файле `main.py` следующее `YOUR_TELEGRAM_BOT_TOKEN` на токен вашего Telegram бота. Если вы еще не создали бота, пройдите по [этой ссылке](https://core.telegram.org/bots#creating-a-new-bot) и создайте его с помощью BotFather.
 
-2. Замените `YOUR_GPT3_API_KEY` на ваш ключ API GPT-3. Если у вас нет ключа API, зарегистрируйтесь на [OpenAI](https://beta.openai.com/signup/) и получите его.
+2. Замените в файле `main.py` следующее `YOUR_GPT3_API_KEY` на ваш ключ API GPT-3. Если у вас нет ключа API, зарегистрируйтесь на [OpenAI](https://beta.openai.com/signup/) и получите его.
 
 ## Запуск
 
